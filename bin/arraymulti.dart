@@ -2,7 +2,7 @@ void main(){
   var dataMahasiswa = [
     {
       "id" :1,
-      "nama": "Grace",
+      "nama": "Prabowo",
       "kelas":"5V",
       "nim":11101001
     },
